@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cheng-liuliu.github.io</id>
-    <title>陆壹肆 的个人网站</title>
-    <updated>2020-03-25T04:31:18.300Z</updated>
+    <title>六 一 四</title>
+    <updated>2020-03-25T05:23:20.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cheng-liuliu.github.io"/>
     <link rel="self" href="https://cheng-liuliu.github.io/atom.xml"/>
-    <subtitle>就是拿来作备份的。</subtitle>
+    <subtitle>⛈</subtitle>
     <logo>https://cheng-liuliu.github.io/images/avatar.png</logo>
     <icon>https://cheng-liuliu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 陆壹肆 的个人网站</rights>
+    <rights>All rights reserved 2020, 六 一 四</rights>
     <entry>
         <title type="html"><![CDATA[Gridea 让你更方便地管理 Github Pages]]></title>
         <id>https://cheng-liuliu.github.io/post/gridea-rang-ni-geng-fang-bian-di-guan-li-github-pages/</id>
