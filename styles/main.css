@@ -1813,6 +1813,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
          
       body {
-font-family:"seriftitle",serif !important
+font-family:"seriftitle",serif;
+font-weight:100;
 }
     
