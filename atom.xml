@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cheng-liuliu.github.io</id>
     <title></title>
-    <updated>2020-03-27T08:09:21.992Z</updated>
+    <updated>2020-03-27T08:34:01.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cheng-liuliu.github.io"/>
     <link rel="self" href="https://cheng-liuliu.github.io/atom.xml"/>
@@ -16,14 +16,6 @@
         <link href="https://cheng-liuliu.github.io/post/gridea-rang-ni-geng-fang-bian-di-guan-li-github-pages/">
         </link>
         <updated>2020-03-25T03:34:54.000Z</updated>
-        <summary type="html"><![CDATA[<p>当下大多数人可能已经对 Github Pages 不再陌生，它是很多喜欢写文章的人第一次接触的用于免费搭建博客建一个简洁却又不失优雅的个人博客 ，直到现在互联网上还有大量的基于它的个人博客，也有大量的搭建方法的教程。我之前就在少数派发表过一篇详细的 GitHub Pages 搭建教程，尚未掌握的朋友可以先从这篇文章读起。</p>
-<p>然而搭建虽然简单，但是管理和推送文章却相对麻烦不少，在 官方的教程 里，我们需要经历繁琐的步骤才能发布一篇文章和修改个人空间界面。相较于官方提供的 GitHub Desktop 和在终端使用 Git 的方法管理 Github Pages，Gridea 这款工具则更为的便捷和优雅，它能让作为创作者的你更专注于写作 。</p>
-<p>继续阅读请查看&gt;https://sspai.com/post/54212</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>当下大多数人可能已经对 Github Pages 不再陌生，它是很多喜欢写文章的人第一次接触的用于免费搭建博客建一个简洁却又不失优雅的个人博客 ，直到现在互联网上还有大量的基于它的个人博客，也有大量的搭建方法的教程。我之前就在少数派发表过一篇详细的 GitHub Pages 搭建教程，尚未掌握的朋友可以先从这篇文章读起。</p>
-<p>然而搭建虽然简单，但是管理和推送文章却相对麻烦不少，在 官方的教程 里，我们需要经历繁琐的步骤才能发布一篇文章和修改个人空间界面。相较于官方提供的 GitHub Desktop 和在终端使用 Git 的方法管理 Github Pages，Gridea 这款工具则更为的便捷和优雅，它能让作为创作者的你更专注于写作 。</p>
-<p>继续阅读请查看&gt;https://sspai.com/post/54212</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
